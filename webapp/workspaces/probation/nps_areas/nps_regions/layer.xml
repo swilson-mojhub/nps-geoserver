@@ -1,0 +1,15 @@
+<layer>
+  <name>nps_regions</name>
+  <id>LayerInfoImpl-5c3ac902:16ef1676f16:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6f8dcbd1:16ef1649381:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-5c3ac902:16ef1676f16:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
